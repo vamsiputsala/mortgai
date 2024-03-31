@@ -8,4 +8,4 @@ class MLPipeline:
         logging.info("Initializing MLPipeline")
 
     def run(self):
-        pass
+        logging.info("Running ML Pipeline")
